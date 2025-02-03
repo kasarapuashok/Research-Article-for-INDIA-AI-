@@ -1,7 +1,11 @@
 # Research-Article-for-INDIA-AI-
 
+Comparison Table :
+
 ![image](https://github.com/user-attachments/assets/4cad4fb3-386e-4735-945a-3c6f1b60c0c0)
 
+
+References:
 
 [1] DeepSeek AI, "DeepSeek AI," [Online]. Available: https://deepseek.com/. [Accessed: Feb. 3, 2025].
 
