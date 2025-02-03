@@ -1,5 +1,8 @@
 # Research-Article-for-INDIA-AI-
 
+![image](https://github.com/user-attachments/assets/4cad4fb3-386e-4735-945a-3c6f1b60c0c0)
+
+
 [1] DeepSeek AI, "DeepSeek AI," [Online]. Available: https://deepseek.com/. [Accessed: Feb. 3, 2025].
 
 [2] DeepSeek AI, "DeepSeek-Coder," GitHub repository, [Online]. Available: https://github.com/deepseek-ai/DeepSeek-Coder. [Accessed: Feb. 3, 2025].
